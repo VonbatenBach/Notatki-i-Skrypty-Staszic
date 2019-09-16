@@ -1,6 +1,6 @@
 # Notatki i Skrypty Staszic
 Notatki i skrypty Szymona Cedrowskiego udostępnione do użytku uczniów XIV LO im. Stanisława Staszica w Warszawie.
-Info: lubię czasem w notatkach dodać coś od siebie...
+Ostrzeżenie: lubię czasem w notatkach dodać coś od siebie...
 
 Obecnie udostępnione:
 1. Analiza matematyczna II (2018/2019), prowadzący: Olga Ziemiańska
