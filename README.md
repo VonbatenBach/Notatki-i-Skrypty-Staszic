@@ -10,3 +10,4 @@ Obecnie udostępnione:
 Koło z astrofizyki i astronomii 2019/2020:
 1. Wstęp do pochodnych w fizyce
 2. Układy odniesienia i układy współrzędnych
+3. Wstęp do grawitacji i orbity kołowe
