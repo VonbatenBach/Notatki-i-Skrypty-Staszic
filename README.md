@@ -15,3 +15,6 @@ Koło z astrofizyki i astronomii 2019/2020:
 5. Problem dwóch ciał i mechanika orbitalna - zadania
 6. Fotometria I - promieniowanie ciała doskonale czarnego
 7. Fotometria II - klasyfikacja widmowa i prawa Pogsona
+8. Równowaga wirialna, gromady gwiazd
+9. Galaktyki (brak skryptu)
+10. Wstęp do kosmologii, model Einsteina-de Sittera
