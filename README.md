@@ -10,7 +10,7 @@ Udostępnione z UW:
 - General Relativity
 
 2. Matematyka:
-- Geometria z algebrą liniową
+- Geometria z algebrą liniową I
 
 Udostępnione ze Staszica:
 - Analiza matematyczna II (2018/2019), prowadzący: Olga Ziemiańska
