@@ -2,7 +2,17 @@
 Notatki i skrypty Szymona Cedrowskiego udostępnione do użytku uczniów XIV LO im. Stanisława Staszica w Warszawie.
 Ostrzeżenie: lubię czasem w notatkach dodać coś od siebie...
 
-Obecnie udostępnione:
+Udostępnione z UW:
+1. Fizyka:
+- Analiza I R (wyk + cw)
+- Analiza III R (wyk + cw)
+- Podstawy mechaniki (wyk + cw)
+- General Relativity
+
+2. Matematyka:
+- Geometria z algebrą liniową
+
+Udostępnione ze Staszica:
 - Analiza matematyczna II (2018/2019), prowadzący: Olga Ziemiańska
 - Fizyka II (2019), prowadzący: Elżbieta Zawistowska
 - Analiza matematyczna III (2019/2020), prowadzący: Olga Ziemiańska
