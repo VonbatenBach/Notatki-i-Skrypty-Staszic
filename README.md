@@ -1,5 +1,5 @@
 # Notatki i Skrypty Staszic
-Notatki i skrypty Szymona Cedrowskiego udostępnione do użytku uczniów XIV LO im. Stanisława Staszica w Warszawie.
+Notatki i skrypty Szymona Cedrowskiego udostępnione do użytku uczniów XIV LO im. Stanisława Staszica w Warszawie oraz studentów fizyki UW.
 Ostrzeżenie: lubię czasem w notatkach dodać coś od siebie...
 
 Udostępnione z UW:
